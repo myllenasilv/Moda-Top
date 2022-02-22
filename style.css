@@ -1,0 +1,33 @@
+.header{
+    background-color: pink;
+}
+
+.header nav a{
+    color:darkmagenta;
+    padding: 20px;
+}
+
+.nav{
+    display:grid;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links{
+    display:flex;
+}
+
+.imagem{
+    align-items:flex-start;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+    align-items:flex-end;
+}
